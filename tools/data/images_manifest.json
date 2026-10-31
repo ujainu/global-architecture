@@ -1,0 +1,1166 @@
+{
+  "buildings": [
+    {
+      "id": "giza_pyramid",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/giza_pyramid/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "吉萨大金字塔 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/giza_pyramid/2.jpg",
+          "source": "https://touch.travel.qunar.com/poi/4449714",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2026吉萨金字塔群门票,开罗吉萨金字塔群游玩攻略,吉萨金字塔群游览攻略路线/地址/门票价格-【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/giza_pyramid/3.jpg",
+          "source": "https://bbs.zol.com.cn/dcbbs/d34039_3763.html",
+          "host": "bbs.zol.com.cn",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "埃及吉萨金字塔群-中关村在线摄影论坛",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "angkor_wat",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/angkor_wat/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "吴哥窟 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/angkor_wat/2.jpg",
+          "source": "https://touch.travel.qunar.com/comment/5736450",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2026吴哥窟游玩攻略,...，刹那间犹如从灿烂的文明...【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/angkor_wat/3.jpg",
+          "source": "https://touch.travel.qunar.com/comment/5840494",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2026吴哥窟游玩攻略,看日出和日落的最佳地点。【...【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "taj_mahal",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/taj_mahal/1.jpg",
+          "source": "https://baike.so.com/gallery/list?ghid=first&pic_idx=4&eid=2864603&sid=3022984",
+          "host": "baike.so.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "泰姬陵图册_360百科",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/taj_mahal/2.jpg",
+          "source": "https://pixabay.com/images/search/taj mahal indien 4k/",
+          "host": "pixabay.com",
+          "credit": "Pixabay License（可商用）",
+          "caption_hint": "20,000+ Free Taj Mahal Indien 4K & Taj Mahal Images - Pixabay",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/taj_mahal/3.jpg",
+          "source": "https://pixabay.com/images/search/taj mahal tours/",
+          "host": "pixabay.com",
+          "credit": "Pixabay License（可商用）",
+          "caption_hint": "4,000+ Free Taj Mahal Tours & Taj Mahal Images - Pixabay",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "petra",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/petra/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Petra.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "佩特拉古城 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/petra/2.jpg",
+          "source": "https://sunpeopledrygoods.com/petra-ruins-petra-mausoleum/",
+          "host": "sunpeopledrygoods.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "petra ruins – petra mausoleum – XILY",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/petra/3.jpg",
+          "source": "https://pixabay.com/images/search/ukrižovanie svätého petra/",
+          "host": "pixabay.com",
+          "credit": "Pixabay License（可商用）",
+          "caption_hint": "6,000+ Free Ukrižovanie Svätého Petra & Petra Images - Pixabay",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "hagia_sophia",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/hagia_sophia/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "圣索菲亚大教堂 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/hagia_sophia/2.jpg",
+          "source": "https://art.icity.ly/museums/45ohdpg",
+          "host": "art.icity.ly",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "圣索菲亚大教堂 - 每日环球展览 - iMuseum",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/hagia_sophia/3.jpg",
+          "source": "https://touch.travel.qunar.com/comment/20045741",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2026圣索菲亚教堂游玩攻略,索菲亚大教堂【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "blue_mosque",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/blue_mosque/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Blue_Mosque.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "蓝色清真寺 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/blue_mosque/2.jpg",
+          "source": "https://touch.travel.qunar.com/comment/7260741",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2026苏丹艾哈迈德清真寺游玩攻略,蓝色清真寺建于苏丹艾哈迈德...【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/blue_mosque/3.jpg",
+          "source": "http://you.ctrip.com/sight/istanbul258/18562.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "蓝色清真寺,伊斯坦布尔蓝色清真寺攻略/地址/图片/门票【携程攻略】",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "colosseum",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/colosseum/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Colosseum.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "罗马斗兽场 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/colosseum/2.jpg",
+          "source": "https://you.ctrip.com/sight/rome303/139434.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】罗马斗兽场门票,罗马斗兽场攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/colosseum/3.jpg",
+          "source": "https://www.ly.com/global/line/37807.html",
+          "host": "www.ly.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "罗马斗兽场、古罗马遗址广场、帕拉蒂诺山门票_价格_海外门票价格_优惠预订_同程旅游",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "pantheon",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/pantheon/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Pantheon,_Rome.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "万神殿 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/pantheon/2.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Pantheon_Rome.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "万神殿 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/pantheon/3.jpg",
+          "source": "https://3w.huanqiu.com/a/0d8d78/3ybhIm2Sjfq",
+          "host": "3w.huanqiu.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "意大利罗马万神殿开放 吸引游客参观",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "st_peters_basilica",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/st_peters_basilica/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:St._Peter's_Basilica.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "圣彼得大教堂 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/st_peters_basilica/2.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:St_Peter's_Basilica.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "圣彼得大教堂 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/st_peters_basilica/3.jpg",
+          "source": "http://touch.travel.qunar.com/comment/5821026",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2018梵蒂冈游玩攻略,圣彼得大教堂是全球第一大教...【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "pisa_tower",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/pisa_tower/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Leaning_Tower_of_Pisa.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "比萨斜塔 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/pisa_tower/2.jpg",
+          "source": "http://you.ctrip.com/sight/pisa1761/67634.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】比萨斜塔门票,比萨斜塔攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/pisa_tower/3.jpg",
+          "source": "https://touch.travel.qunar.com/comment/5858141?from=client&bd_source=bdglxzh",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2024比萨斜塔游玩攻略,比萨斜塔——证明自己来过意...【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "sagrada_familia",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/sagrada_familia/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Sagrada_Família.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "圣家族大教堂 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/sagrada_familia/2.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Sagrada_Familia.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "圣家族大教堂 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/sagrada_familia/3.jpg",
+          "source": "http://cms.iweek.ly/index.php?/article/index/200085238",
+          "host": "cms.iweek.ly",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "修建130多年！西班牙圣家族大教堂主楼终于封顶",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "alhambra",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/alhambra/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Alhambra.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "阿尔罕布拉宫 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/alhambra/2.jpg",
+          "source": "https://touch.travel.qunar.com/comment/10161570583",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2026阿尔罕布拉宫游玩攻略,最好提前订票，订完后，在景...【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/alhambra/3.jpg",
+          "source": "https://touch.travel.qunar.com/comment/10161569737?bd_source=baidupz1",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2026阿尔罕布拉宫游玩攻略,...间 宫殿本身极其的奢华夸...【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "parthenon",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/parthenon/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Parthenon.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "帕特农神庙 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/parthenon/2.jpg",
+          "source": "https://www.acropolis-tickets.com/pl/acropolis-parthenon-greece/",
+          "host": "www.acropolis-tickets.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "Partenon na Akropolu w Atenach | Historia i przewodnik dla odwiedzających",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/parthenon/3.jpg",
+          "source": "https://www.britannica.com/topic/Parthenon/The-sculptures",
+          "host": "www.britannica.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "Parthenon - Sculptures, Acropolis, Athens | Britannica",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "eiffel_tower",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/eiffel_tower/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "埃菲尔铁塔 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/eiffel_tower/2.jpg",
+          "source": "https://dp.pconline.com.cn/dphoto/list_2444115.html",
+          "host": "dp.pconline.com.cn",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【埃菲尔铁塔摄影图片】法国 巴黎风光摄影_喻光十色_太平洋电脑网摄影部落",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/eiffel_tower/3.jpg",
+          "source": "https://baike.so.com/gallery/list?ghid=first&pic_idx=1&eid=3011131&sid=3175372",
+          "host": "baike.so.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "埃菲尔铁塔图册_360百科",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "louvre",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/louvre/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Louvre.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "卢浮宫 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/louvre/2.jpg",
+          "source": "https://art.icity.ly/museums/njmhqur",
+          "host": "art.icity.ly",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "卢浮宫 - 每日环球展览 - iMuseum",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/louvre/3.jpg",
+          "source": "http://you.ctrip.com/sight/paris308/12908.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】卢浮宫门票,巴黎卢浮宫攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "notre_dame",
+      "status": "partial",
+      "images": [
+        {
+          "file": "architecture/notre_dame/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "巴黎圣母院 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/notre_dame/2.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Notre_Dame_Paris.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "巴黎圣母院 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        }
+      ]
+    },
+    {
+      "id": "versailles",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/versailles/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Versailles.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "凡尔赛宫 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/versailles/2.jpg",
+          "source": "https://www.ly.com/global/line/37447.html",
+          "host": "www.ly.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "巴黎凡尔赛宫_价格_海外门票价格_优惠预订_同程旅游",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/versailles/3.jpg",
+          "source": "https://upimg.baike.so.com/doc/5335661-5571100.html",
+          "host": "upimg.baike.so.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "凡尔赛宫(巴黎著名的宫殿之一)_360百科",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "stonehenge",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/stonehenge/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Stonehenge.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "巨石阵 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/stonehenge/2.jpg",
+          "source": "http://www.english-heritage.cn/stonehenge/",
+          "host": "www.english-heritage.cn",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "英国遗产",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/stonehenge/3.jpg",
+          "source": "https://www.sohu.com/picture/295182103",
+          "host": "www.sohu.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "巨石阵之谜已破解？瑞典科学家发现巨石阵的起源-搜狐大视野-搜狐新闻",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "big_ben",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/big_ben/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Big_Ben.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "大本钟 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/big_ben/2.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Big_Ben_London.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "大本钟 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/big_ben/3.jpg",
+          "source": "http://you.ctrip.com/sight/london309/51712.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】大本钟门票,伦敦大本钟攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "tower_bridge",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/tower_bridge/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "伦敦塔桥 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/tower_bridge/2.jpg",
+          "source": "http://you.ctrip.com/sight/london309/12591.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】伦敦塔桥门票,伦敦塔桥攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/tower_bridge/3.jpg",
+          "source": "http://you.ctrip.com/sight/london309/12591.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】伦敦塔桥门票,伦敦塔桥攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "cologne_cathedral",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/cologne_cathedral/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Cologne_Cathedral.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "科隆大教堂 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/cologne_cathedral/2.jpg",
+          "source": "https://baike.so.com/gallery/list?ghid=first&pic_idx=1&eid=5336061&sid=5571500",
+          "host": "baike.so.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "科隆大教堂图册_360百科",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/cologne_cathedral/3.jpg",
+          "source": "https://ishare.ifeng.com/c/s/v0026R2FZleWGigwr-_jd0P1HQR2Yh8Yg35JJil0j-_ZHHHTM__",
+          "host": "ishare.ifeng.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "科隆大教堂——建了六个世纪的哥特大教堂__凤凰网",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "neuschwanstein",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/neuschwanstein/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "新天鹅堡 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/neuschwanstein/2.jpg",
+          "source": "https://dp.pconline.com.cn/dphoto/list_3396679.html",
+          "host": "dp.pconline.com.cn",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【新天鹅堡【德国游记】摄影图片】德国国外摄影_心中有桃园，处处是美景_太平洋电脑网摄影部落",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/neuschwanstein/3.jpg",
+          "source": "https://touch.go.qunar.com/poi/4351183",
+          "host": "touch.go.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2026新天鹅堡门票,施万高新天鹅堡游玩攻略,新天鹅堡游览攻略路线/地址/门票价格-【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "st_basils_cathedral",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/st_basils_cathedral/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Saint_Basil's_Cathedral.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "圣瓦西里大教堂 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/st_basils_cathedral/2.jpg",
+          "source": "http://you.ctrip.com/sight/moscow358/25756.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】圣瓦西里升天大教堂门票,莫斯科圣瓦西里升天大教堂攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/st_basils_cathedral/3.jpg",
+          "source": "http://you.ctrip.com/sight/moscow358/25756.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】圣瓦西里升天大教堂门票,莫斯科圣瓦西里升天大教堂攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "moscow_kremlin",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/moscow_kremlin/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Moscow_Kremlin.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "莫斯科克里姆林宫 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/moscow_kremlin/2.jpg",
+          "source": "http://you.ctrip.com/sight/moscow358/25748.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】克里姆林宫门票,莫斯科克里姆林宫攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/moscow_kremlin/3.jpg",
+          "source": "https://baike.so.com/doc/5330475-5565649.html",
+          "host": "baike.so.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "克里姆林宫_360百科",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "winter_palace",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/winter_palace/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Winter_Palace.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "冬宫 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/winter_palace/2.jpg",
+          "source": "http://www.dashangu.com/postimg_21210514_2.html",
+          "host": "www.dashangu.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "金冬天winter,金冬天nr头像,金冬天nr短发(第2页)_大山谷图库",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/winter_palace/3.jpg",
+          "source": "https://www.sohu.com/a/604630422_121124604",
+          "host": "www.sohu.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "英语口语表达 | 谈论冬天（winter）_spring_the_How",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "statue_of_liberty",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/statue_of_liberty/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "自由女神像 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/statue_of_liberty/2.jpg",
+          "source": "https://baike.so.com/doc/5370537-5606459.html",
+          "host": "baike.so.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "自由女神像_360百科",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/statue_of_liberty/3.jpg",
+          "source": "https://www.sohu.com/a/200874170_99959181",
+          "host": "www.sohu.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "历史上的今天 | 自由女神像揭幕",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "empire_state",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/empire_state/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Empire_State_Building.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "帝国大厦 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/empire_state/2.jpg",
+          "source": "https://ishare.ifeng.com/c/s/7oXbgx4rsCh",
+          "host": "ishare.ifeng.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "1931年竣工的超高层建筑———帝国大厦__凤凰网",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/empire_state/3.jpg",
+          "source": "https://ttgbtmice.com/2019/07/30/帝国大厦揭幕沉浸式互动体验馆/",
+          "host": "ttgbtmice.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "帝国大厦揭幕沉浸式互动体验馆 | TTG BTmice",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "white_house",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/white_house/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:White_House.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "白宫 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/white_house/2.jpg",
+          "source": "https://touch.go.qunar.com/poi/4418673",
+          "host": "touch.go.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2022白宫门票,华盛顿白宫游玩攻略,白宫游览攻略路线/地址/门票价格-【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/white_house/3.jpg",
+          "source": "https://touch.go.qunar.com/poi/4418673",
+          "host": "touch.go.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2025美国白宫门票,华盛顿美国白宫游玩攻略,美国白宫游览攻略路线/地址/门票价格-【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "golden_gate_bridge",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/golden_gate_bridge/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "金门大桥 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/golden_gate_bridge/2.jpg",
+          "source": "http://you.ctrip.com/sight/sanfrancisco249/13621.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】金门大桥门票,旧金山金门大桥攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/golden_gate_bridge/3.jpg",
+          "source": "https://dp.pconline.com.cn/dphoto/2478270.html",
+          "host": "dp.pconline.com.cn",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "金门大桥》摄影图片】美国风光摄影_唐",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "machu_picchu",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/machu_picchu/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Machu_Picchu.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "马丘比丘 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/machu_picchu/2.jpg",
+          "source": "https://touch.travel.qunar.com/comment/5108250",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2026马丘比丘游玩攻略,马丘比丘全景，海拔2280米，...【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/machu_picchu/3.jpg",
+          "source": "http://qianye88.com/tupian/42564.html",
+          "host": "qianye88.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "秘鲁马丘比丘遗址图片-千叶网",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "cristo_redentor",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/cristo_redentor/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "基督救世主雕像 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/cristo_redentor/2.jpg",
+          "source": "https://www.sohu.com/a/574037215_121124416",
+          "host": "www.sohu.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "救世基督像_巴西_雕像_瓦多",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/cristo_redentor/3.jpg",
+          "source": "https://travel.ifeng.com/world/detail_2014_10/14/39066747_0.shtml",
+          "host": "travel.ifeng.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "巴西里约举行救世基督像建成83周年庆典_频道_凤凰网",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "sydney_opera",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/sydney_opera/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "悉尼歌剧院 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/sydney_opera/2.jpg",
+          "source": "https://pixabay.com/images/search/sydney opera house/",
+          "host": "pixabay.com",
+          "credit": "Pixabay License（可商用）",
+          "caption_hint": "60,000+ Free Sydney Opera House & Sydney Images - Pixabay",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/sydney_opera/3.jpg",
+          "source": "https://dp.pconline.com.cn/dphoto/list_3525291.html",
+          "host": "dp.pconline.com.cn",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【Sydney Opera House摄影图片】澳大利亚风光摄影_中及摄影_太平洋电脑网摄影部落",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "burj_khalifa",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/burj_khalifa/1.jpg",
+          "source": "https://travel.qunar.com/p-oi4477315-halifata",
+          "host": "travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2020哈利法塔（迪拜塔）-旅游攻略-门票-地址-问答-游记点评，迪拜旅游旅游景点推荐-去哪儿攻略",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/burj_khalifa/2.jpg",
+          "source": "http://www.ly.com/dujia/wanle/25277.html",
+          "host": "www.ly.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "阿联酋迪拜塔-哈利法塔门票预定,阿联酋迪拜塔-哈利法塔价格,阿联酋迪拜塔-哈利法塔评价,攻略-同程旅游",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/burj_khalifa/3.jpg",
+          "source": "https://travel.qunar.com/p-oi4477315-halifata",
+          "host": "travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2020哈利法塔（迪拜塔）-旅游攻略-门票-地址-问答-游记点评，迪拜旅游旅游景点推荐-去哪儿攻略",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "petronas_towers",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/petronas_towers/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Petronas_Twin_Towers.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "吉隆坡双子塔 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/petronas_towers/2.jpg",
+          "source": "https://baike.so.com/gallery/list?ghid=first&pic_idx=1&eid=5951238&sid=6164179",
+          "host": "baike.so.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "双子塔图册_360百科",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/petronas_towers/3.jpg",
+          "source": "https://baike.so.com/gallery/list?ghid=first&pic_idx=1&eid=5951238&sid=27364302",
+          "host": "baike.so.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "双子塔图册_360百科",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "potala_palace",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/potala_palace/1.jpg",
+          "source": "https://www.sohu.com/a/638038578_100164422",
+          "host": "www.sohu.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "布达拉宫有世界一半的黄金，这座世界最高宫殿，到底有多神秘?_建筑_西藏_历史",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/potala_palace/2.jpg",
+          "source": "https://www.sohu.com/a/638038578_100164422",
+          "host": "www.sohu.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "布达拉宫有世界一半的黄金，这座世界最高宫殿，到底有多神秘?_建筑_西藏_历史",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/potala_palace/3.jpg",
+          "source": "http://you.ctrip.com/sight/lhasa36/3117.html",
+          "host": "you.ctrip.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "【携程攻略】布达拉宫门票,拉萨布达拉宫攻略/地址/图片/门票价格",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "forbidden_city",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/forbidden_city/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Forbidden_City.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "北京故宫 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/forbidden_city/2.jpg",
+          "source": "https://www.shuomingshu.cn/changshi/171999.html",
+          "host": "www.shuomingshu.cn",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "故宫的资料及介绍（中国｜故宫历史文化、简介，都在这里，建议收藏） | 说明书网",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/forbidden_city/3.jpg",
+          "source": "https://origin.toojd.com/article_69.html",
+          "host": "origin.toojd.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "北京故宫一日游超详细攻略|途简单-途简单-专业行李寄存平台",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "kiyomizu_dera",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/kiyomizu_dera/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "清水寺 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/kiyomizu_dera/2.jpg",
+          "source": "https://touch.travel.qunar.com/comment/5916298",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2022清水寺游玩攻略,清水寺始建于778年，是京都最...【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/kiyomizu_dera/3.jpg",
+          "source": "https://touch.travel.qunar.com/comment/5572499",
+          "host": "touch.travel.qunar.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "2026清水寺游玩攻略,清水寺最著名的清水舞台正在...【去哪儿攻略】",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "himeji_castle",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/himeji_castle/1.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Himeji_Castle.jpg",
+          "host": "commons.wikimedia.org",
+          "credit": "Wikimedia Commons（自由许可，详见来源链接）",
+          "caption_hint": "姬路城 实景",
+          "note": "Wikimedia Commons via wsrv.nl proxy"
+        },
+        {
+          "file": "architecture/himeji_castle/2.jpg",
+          "source": "https://k.sina.com.cn/article_1961381224_p74e84d6802700e92l.html",
+          "host": "k.sina.com.cn",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "日本，姬路城。是日本第一座被列入世界文化遗产的建筑。外墙雪白|姬路城|白鹭|世界文化遗产_新浪新闻",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/himeji_castle/3.jpg",
+          "source": "https://huaban.com/pins/5820373739",
+          "host": "huaban.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "Himeji-Castle-3k.jpg (3000×1686)-花瓣网",
+          "note": "Bing 图片检索"
+        }
+      ]
+    },
+    {
+      "id": "fallingwater",
+      "status": "ok",
+      "images": [
+        {
+          "file": "architecture/fallingwater/1.jpg",
+          "source": "https://www.sohu.com/a/190915426_526353",
+          "host": "www.sohu.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "流水别墅：也许是全球最著名的别墅",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/fallingwater/2.jpg",
+          "source": "http://www.treemode.com/case/1509",
+          "host": "www.treemode.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "美国宾夕法尼亚州流水别墅（Fallingwater）- 弗兰克·劳埃德·赖特（Frank Lloyd Wright） - 建筑设计案例 - 树状模式",
+          "note": "Bing 图片检索"
+        },
+        {
+          "file": "architecture/fallingwater/3.jpg",
+          "source": "https://www.sohu.com/a/112244950_467298",
+          "host": "www.sohu.com",
+          "credit": "网络公开图片，仅作学习演示",
+          "caption_hint": "有一个建筑的经典叫：流水别墅",
+          "note": "Bing 图片检索"
+        }
+      ]
+    }
+  ]
+}

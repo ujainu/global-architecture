@@ -1,0 +1,913 @@
+{
+  "_comment": "38 座精做建筑的权威结构元数据（讲解文案与图片由后续流程填充）。id 一经确定不可更改，图片目录与详情页依赖它。",
+  "batch": "phase1-38",
+  "records": [
+    {
+      "id": "giza_pyramid",
+      "name": "吉萨大金字塔",
+      "nameEn": "Great Pyramid of Giza",
+      "country": "埃及",
+      "city": "吉萨高原",
+      "lat": 29.9792,
+      "lng": 31.1342,
+      "continentId": "africa",
+      "eraId": "ancient",
+      "yearText": "约公元前 2560 年",
+      "architectIds": [
+        "hemiunu"
+      ],
+      "styleIds": [
+        "ancient_egypt"
+      ],
+      "summary": "世界七大奇迹中唯一留存至今的建筑，古埃及法老胡夫的陵墓。",
+      "coverFrom": "#8A5A2B",
+      "coverTo": "#D9A95E",
+      "popularity": 96,
+      "recommended": true
+    },
+    {
+      "id": "angkor_wat",
+      "name": "吴哥窟",
+      "nameEn": "Angkor Wat",
+      "country": "柬埔寨",
+      "city": "暹粒",
+      "lat": 13.4125,
+      "lng": 103.867,
+      "continentId": "asia",
+      "eraId": "medieval",
+      "yearText": "1113–1150 年",
+      "architectIds": [
+        "suryavarman_ii"
+      ],
+      "styleIds": [
+        "khmer"
+      ],
+      "summary": "世界上最大的宗教建筑群，高棉帝国献给毗湿奴的国寺。",
+      "coverFrom": "#3F5A3A",
+      "coverTo": "#9FB37A",
+      "popularity": 95,
+      "recommended": true
+    },
+    {
+      "id": "taj_mahal",
+      "name": "泰姬陵",
+      "nameEn": "Taj Mahal",
+      "country": "印度",
+      "city": "阿格拉",
+      "lat": 27.1751,
+      "lng": 78.0421,
+      "continentId": "asia",
+      "eraId": "early_modern",
+      "yearText": "1632–1653 年",
+      "architectIds": [
+        "ustad_lahauri"
+      ],
+      "styleIds": [
+        "islamic"
+      ],
+      "summary": "莫卧儿皇帝沙贾汗为爱妃修建的白色大理石陵墓，被誉为「永恒面颊上的一滴眼泪」。",
+      "coverFrom": "#B9B4A8",
+      "coverTo": "#EFE9DC",
+      "popularity": 94,
+      "recommended": true
+    },
+    {
+      "id": "petra",
+      "name": "佩特拉古城",
+      "nameEn": "Petra",
+      "country": "约旦",
+      "city": "马安",
+      "lat": 30.3285,
+      "lng": 35.4444,
+      "continentId": "asia",
+      "eraId": "ancient",
+      "yearText": "约公元前 312 年–公元 106 年",
+      "architectIds": [],
+      "styleIds": [
+        "nabataean",
+        "ancient_roman"
+      ],
+      "summary": "纳巴泰人在玫瑰色砂岩崖壁上凿出的岩石之城，消失千年后于 1812 年重现。",
+      "coverFrom": "#8C5A3C",
+      "coverTo": "#D9A679",
+      "popularity": 90,
+      "recommended": true
+    },
+    {
+      "id": "hagia_sophia",
+      "name": "圣索菲亚大教堂",
+      "nameEn": "Hagia Sophia",
+      "country": "土耳其",
+      "city": "伊斯坦布尔",
+      "lat": 41.0086,
+      "lng": 28.9802,
+      "continentId": "europe",
+      "eraId": "medieval",
+      "yearText": "公元 532–537 年",
+      "architectIds": [
+        "anthemius"
+      ],
+      "styleIds": [
+        "byzantine"
+      ],
+      "summary": "拜占庭建筑的巅峰，用一座 31 米直径的悬浮穹顶改写了建筑史。",
+      "coverFrom": "#7A5C8A",
+      "coverTo": "#D3B9DE",
+      "popularity": 93,
+      "recommended": true
+    },
+    {
+      "id": "blue_mosque",
+      "name": "蓝色清真寺",
+      "nameEn": "Blue Mosque",
+      "country": "土耳其",
+      "city": "伊斯坦布尔",
+      "lat": 41.0054,
+      "lng": 28.9768,
+      "continentId": "europe",
+      "eraId": "early_modern",
+      "yearText": "1609–1616 年",
+      "architectIds": [
+        "sedefkar_mehmed_agha"
+      ],
+      "styleIds": [
+        "ottoman",
+        "islamic"
+      ],
+      "summary": "苏丹艾哈迈德清真寺，以两万余片伊兹尼克蓝瓷砖与六座宣礼塔闻名。",
+      "coverFrom": "#2F6E8F",
+      "coverTo": "#8FC4DC",
+      "popularity": 88,
+      "recommended": true
+    },
+    {
+      "id": "colosseum",
+      "name": "罗马斗兽场",
+      "nameEn": "Colosseum",
+      "country": "意大利",
+      "city": "罗马",
+      "lat": 41.8902,
+      "lng": 12.4922,
+      "continentId": "europe",
+      "eraId": "ancient",
+      "yearText": "公元 70–80 年",
+      "architectIds": [],
+      "styleIds": [
+        "ancient_roman"
+      ],
+      "summary": "古罗马帝国规模最大的圆形角斗场，可容纳约八万名观众。",
+      "coverFrom": "#7A4B22",
+      "coverTo": "#C98B4E",
+      "popularity": 90,
+      "recommended": true
+    },
+    {
+      "id": "pantheon",
+      "name": "万神殿",
+      "nameEn": "Pantheon",
+      "country": "意大利",
+      "city": "罗马",
+      "lat": 41.8986,
+      "lng": 12.4769,
+      "continentId": "europe",
+      "eraId": "ancient",
+      "yearText": "公元 113–125 年",
+      "architectIds": [
+        "apollodorus"
+      ],
+      "styleIds": [
+        "ancient_roman"
+      ],
+      "summary": "拥有至今仍是世界最大无筋混凝土穹顶的古罗马神庙，两千年来完好如初。",
+      "coverFrom": "#6E5B4A",
+      "coverTo": "#C4AE94",
+      "popularity": 87,
+      "recommended": true
+    },
+    {
+      "id": "st_peters_basilica",
+      "name": "圣彼得大教堂",
+      "nameEn": "St. Peter's Basilica",
+      "country": "梵蒂冈",
+      "city": "梵蒂冈城",
+      "lat": 41.9022,
+      "lng": 12.4539,
+      "continentId": "europe",
+      "eraId": "early_modern",
+      "yearText": "1506–1626 年",
+      "architectIds": [
+        "bramante",
+        "michelangelo",
+        "bernini"
+      ],
+      "styleIds": [
+        "renaissance",
+        "baroque"
+      ],
+      "summary": "天主教世界的中心，文艺复兴与巴洛克两代大师接力百余年才建成的巨构。",
+      "coverFrom": "#8A7B4F",
+      "coverTo": "#E4D9B0",
+      "popularity": 91,
+      "recommended": true
+    },
+    {
+      "id": "pisa_tower",
+      "name": "比萨斜塔",
+      "nameEn": "Leaning Tower of Pisa",
+      "country": "意大利",
+      "city": "比萨",
+      "lat": 43.723,
+      "lng": 10.3966,
+      "continentId": "europe",
+      "eraId": "medieval",
+      "yearText": "1173–1372 年",
+      "architectIds": [
+        "bonanno_pisano"
+      ],
+      "styleIds": [
+        "romanesque"
+      ],
+      "summary": "因地基沉降而倾斜近四度、却歪打正着成为世界最著名「错误」的罗马式钟楼。",
+      "coverFrom": "#9A927E",
+      "coverTo": "#E8E2D2",
+      "popularity": 86,
+      "recommended": true
+    },
+    {
+      "id": "sagrada_familia",
+      "name": "圣家族大教堂",
+      "nameEn": "Sagrada Família",
+      "country": "西班牙",
+      "city": "巴塞罗那",
+      "lat": 41.4036,
+      "lng": 2.1744,
+      "continentId": "europe",
+      "eraId": "modern",
+      "yearText": "1882 年至今",
+      "architectIds": [
+        "antoni_gaudi"
+      ],
+      "styleIds": [
+        "gothic",
+        "art_nouveau"
+      ],
+      "summary": "高迪倾注四十余年的未竟之作，把自然界的曲线与几何写进了石头里。",
+      "coverFrom": "#8A6A3C",
+      "coverTo": "#D9B87A",
+      "popularity": 94,
+      "recommended": true
+    },
+    {
+      "id": "alhambra",
+      "name": "阿尔罕布拉宫",
+      "nameEn": "Alhambra",
+      "country": "西班牙",
+      "city": "格拉纳达",
+      "lat": 37.1761,
+      "lng": -3.5881,
+      "continentId": "europe",
+      "eraId": "medieval",
+      "yearText": "1238–1358 年",
+      "architectIds": [],
+      "styleIds": [
+        "moorish",
+        "islamic"
+      ],
+      "summary": "摩尔人在伊比利亚半岛最后的宫殿，以「水、光影与灰泥花边」构成的伊斯兰园林典范。",
+      "coverFrom": "#8C4A3A",
+      "coverTo": "#DDA277",
+      "popularity": 89,
+      "recommended": true
+    },
+    {
+      "id": "parthenon",
+      "name": "帕特农神庙",
+      "nameEn": "Parthenon",
+      "country": "希腊",
+      "city": "雅典卫城",
+      "lat": 37.9715,
+      "lng": 23.7267,
+      "continentId": "europe",
+      "eraId": "ancient",
+      "yearText": "公元前 447–438 年",
+      "architectIds": [
+        "callicrates"
+      ],
+      "styleIds": [
+        "ancient_greek"
+      ],
+      "summary": "雅典卫城的核心建筑，多立克柱式的巅峰之作。",
+      "coverFrom": "#B9B09A",
+      "coverTo": "#E6DFCE",
+      "popularity": 92,
+      "recommended": true
+    },
+    {
+      "id": "eiffel_tower",
+      "name": "埃菲尔铁塔",
+      "nameEn": "Eiffel Tower",
+      "country": "法国",
+      "city": "巴黎",
+      "lat": 48.8584,
+      "lng": 2.2945,
+      "continentId": "europe",
+      "eraId": "early_modern",
+      "yearText": "1887–1889 年",
+      "architectIds": [
+        "gustave_eiffel"
+      ],
+      "styleIds": [
+        "industrial"
+      ],
+      "summary": "为 1889 年世博会而建的钢铁镂空塔，曾被艺术家联名抵制，如今成为巴黎的化身。",
+      "coverFrom": "#4A5A6A",
+      "coverTo": "#A8B8C8",
+      "popularity": 93,
+      "recommended": true
+    },
+    {
+      "id": "louvre",
+      "name": "卢浮宫",
+      "nameEn": "Louvre Museum",
+      "country": "法国",
+      "city": "巴黎",
+      "lat": 48.8606,
+      "lng": 2.3376,
+      "continentId": "europe",
+      "eraId": "early_modern",
+      "yearText": "1546 年起改建，1989 年增建玻璃金字塔",
+      "architectIds": [
+        "pierre_lescot",
+        "i_m_pei"
+      ],
+      "styleIds": [
+        "renaissance",
+        "baroque",
+        "modernism"
+      ],
+      "summary": "从中世纪城堡演变为王宫、再成为世界最大博物馆之一，贝聿铭的玻璃金字塔为其注入现代注脚。",
+      "coverFrom": "#5A5A7A",
+      "coverTo": "#B8B8D4",
+      "popularity": 92,
+      "recommended": true
+    },
+    {
+      "id": "notre_dame",
+      "name": "巴黎圣母院",
+      "nameEn": "Notre-Dame de Paris",
+      "country": "法国",
+      "city": "巴黎",
+      "lat": 48.853,
+      "lng": 2.3499,
+      "continentId": "europe",
+      "eraId": "medieval",
+      "yearText": "1163–1345 年",
+      "architectIds": [
+        "maurice_de_sully"
+      ],
+      "styleIds": [
+        "gothic"
+      ],
+      "summary": "哥特式建筑的里程碑，飞扶壁与玫瑰花窗的教科书，2019 年大火后又重新站起。",
+      "coverFrom": "#7A6A5A",
+      "coverTo": "#D4C4AE",
+      "popularity": 91,
+      "recommended": true
+    },
+    {
+      "id": "versailles",
+      "name": "凡尔赛宫",
+      "nameEn": "Palace of Versailles",
+      "country": "法国",
+      "city": "凡尔赛",
+      "lat": 48.8049,
+      "lng": 2.1204,
+      "continentId": "europe",
+      "eraId": "early_modern",
+      "yearText": "1661–1710 年",
+      "architectIds": [
+        "louis_le_vau",
+        "jules_hardouin_mansart"
+      ],
+      "styleIds": [
+        "baroque",
+        "neoclassical"
+      ],
+      "summary": "路易十四的绝对王权宣言，镜厅与几何园林共同定义了欧洲宫廷的范式。",
+      "coverFrom": "#8A7A3C",
+      "coverTo": "#E0D08A",
+      "popularity": 90,
+      "recommended": true
+    },
+    {
+      "id": "stonehenge",
+      "name": "巨石阵",
+      "nameEn": "Stonehenge",
+      "country": "英国",
+      "city": "威尔特郡",
+      "lat": 51.1789,
+      "lng": -1.8262,
+      "continentId": "europe",
+      "eraId": "ancient",
+      "yearText": "约公元前 3000–前 1500 年",
+      "architectIds": [],
+      "styleIds": [
+        "prehistoric"
+      ],
+      "summary": "新石器时代先民竖起的巨石环阵，用途成谜，却精确对齐夏至日出方位。",
+      "coverFrom": "#5A6A5A",
+      "coverTo": "#B8C4A8",
+      "popularity": 85,
+      "recommended": true
+    },
+    {
+      "id": "big_ben",
+      "name": "大本钟",
+      "nameEn": "Big Ben (Elizabeth Tower)",
+      "country": "英国",
+      "city": "伦敦",
+      "lat": 51.5007,
+      "lng": -0.1246,
+      "continentId": "europe",
+      "eraId": "early_modern",
+      "yearText": "1843–1859 年",
+      "architectIds": [
+        "charles_barry",
+        "augustus_pugin"
+      ],
+      "styleIds": [
+        "neo_gothic",
+        "victorian"
+      ],
+      "summary": "威斯敏斯特宫钟楼，钟声是伦敦的听觉地标，塔名其实叫伊丽莎白塔。",
+      "coverFrom": "#6A5A3C",
+      "coverTo": "#C8B078",
+      "popularity": 87,
+      "recommended": true
+    },
+    {
+      "id": "tower_bridge",
+      "name": "伦敦塔桥",
+      "nameEn": "Tower Bridge",
+      "country": "英国",
+      "city": "伦敦",
+      "lat": 51.5055,
+      "lng": -0.0754,
+      "continentId": "europe",
+      "eraId": "early_modern",
+      "yearText": "1886–1894 年",
+      "architectIds": [
+        "horace_jones",
+        "john_wolfe_barry"
+      ],
+      "styleIds": [
+        "victorian",
+        "neo_gothic"
+      ],
+      "summary": "可开合的哥特式双塔桥，用蒸汽液压机械解决「既要通车又要过船」的维多利亚难题。",
+      "coverFrom": "#3E5A7A",
+      "coverTo": "#9FC0DC",
+      "popularity": 86,
+      "recommended": true
+    },
+    {
+      "id": "cologne_cathedral",
+      "name": "科隆大教堂",
+      "nameEn": "Cologne Cathedral",
+      "country": "德国",
+      "city": "科隆",
+      "lat": 50.9413,
+      "lng": 6.9583,
+      "continentId": "europe",
+      "eraId": "medieval",
+      "yearText": "1248–1880 年",
+      "architectIds": [
+        "gerhard_von_riel"
+      ],
+      "styleIds": [
+        "gothic"
+      ],
+      "summary": "建造历时 632 年的哥特式巨构，两座 157 米尖塔曾定义「极高」的极限。",
+      "coverFrom": "#4A4A52",
+      "coverTo": "#A0A0AC",
+      "popularity": 89,
+      "recommended": true
+    },
+    {
+      "id": "neuschwanstein",
+      "name": "新天鹅堡",
+      "nameEn": "Neuschwanstein Castle",
+      "country": "德国",
+      "city": "巴伐利亚",
+      "lat": 47.5576,
+      "lng": 10.7498,
+      "continentId": "europe",
+      "eraId": "early_modern",
+      "yearText": "1869–1886 年",
+      "architectIds": [
+        "christian_jank",
+        "eduard_riedel"
+      ],
+      "styleIds": [
+        "romanticism",
+        "neo_gothic"
+      ],
+      "summary": "巴伐利亚国王路德维希二世的童话城堡，迪士尼睡美人城堡的原型。",
+      "coverFrom": "#7A8AA0",
+      "coverTo": "#DCE6F0",
+      "popularity": 90,
+      "recommended": true
+    },
+    {
+      "id": "st_basils_cathedral",
+      "name": "圣瓦西里大教堂",
+      "nameEn": "Saint Basil's Cathedral",
+      "country": "俄罗斯",
+      "city": "莫斯科",
+      "lat": 55.7525,
+      "lng": 37.6231,
+      "continentId": "europe",
+      "eraId": "early_modern",
+      "yearText": "1555–1561 年",
+      "architectIds": [
+        "postnik_yakovlev"
+      ],
+      "styleIds": [
+        "russian_orthodox"
+      ],
+      "summary": "红场上九座彩釉洋葱顶组成的东正教教堂，伊凡雷帝为庆胜利而建。",
+      "coverFrom": "#8A3A4A",
+      "coverTo": "#E09AA8",
+      "popularity": 89,
+      "recommended": true
+    },
+    {
+      "id": "moscow_kremlin",
+      "name": "莫斯科克里姆林宫",
+      "nameEn": "Moscow Kremlin",
+      "country": "俄罗斯",
+      "city": "莫斯科",
+      "lat": 55.752,
+      "lng": 37.6175,
+      "continentId": "europe",
+      "eraId": "medieval",
+      "yearText": "1485–1495 年（现存城墙与教堂）",
+      "architectIds": [
+        "aristotle_fioravanti"
+      ],
+      "styleIds": [
+        "russian_orthodox",
+        "renaissance"
+      ],
+      "summary": "俄罗斯权力中枢，红墙之内是意大利建筑师参与建造的教堂群与宫殿群。",
+      "coverFrom": "#7A3A3A",
+      "coverTo": "#CC8A7A",
+      "popularity": 86,
+      "recommended": true
+    },
+    {
+      "id": "winter_palace",
+      "name": "冬宫",
+      "nameEn": "Winter Palace",
+      "country": "俄罗斯",
+      "city": "圣彼得堡",
+      "lat": 59.9403,
+      "lng": 30.3137,
+      "continentId": "europe",
+      "eraId": "early_modern",
+      "yearText": "1754–1762 年",
+      "architectIds": [
+        "bartolomeo_rastrelli"
+      ],
+      "styleIds": [
+        "baroque",
+        "rococo"
+      ],
+      "summary": "俄罗斯巴洛克巅峰之作，如今是艾尔米塔什博物馆的主体，1917 年革命的现场之一。",
+      "coverFrom": "#2F6A6A",
+      "coverTo": "#9FD0CE",
+      "popularity": 87,
+      "recommended": true
+    },
+    {
+      "id": "statue_of_liberty",
+      "name": "自由女神像",
+      "nameEn": "Statue of Liberty",
+      "country": "美国",
+      "city": "纽约",
+      "lat": 40.6892,
+      "lng": -74.0445,
+      "continentId": "north_america",
+      "eraId": "early_modern",
+      "yearText": "1875–1886 年",
+      "architectIds": [
+        "frederic_bartholdi",
+        "gustave_eiffel"
+      ],
+      "styleIds": [
+        "neoclassical",
+        "industrial"
+      ],
+      "summary": "法国赠予美国的百年国庆礼物，铜皮包裹的钢骨架由埃菲尔设计，是移民时代的灯塔。",
+      "coverFrom": "#3E7A8A",
+      "coverTo": "#A8DCE4",
+      "popularity": 91,
+      "recommended": true
+    },
+    {
+      "id": "empire_state",
+      "name": "帝国大厦",
+      "nameEn": "Empire State Building",
+      "country": "美国",
+      "city": "纽约",
+      "lat": 40.7484,
+      "lng": -73.9857,
+      "continentId": "north_america",
+      "eraId": "modern",
+      "yearText": "1930–1931 年",
+      "architectIds": [
+        "shreve_lamb"
+      ],
+      "styleIds": [
+        "art_deco"
+      ],
+      "summary": "大萧条中仅用 410 天建成的装饰艺术摩天楼，保持世界第一高楼称号达四十年。",
+      "coverFrom": "#4A4A6A",
+      "coverTo": "#B0B0D0",
+      "popularity": 88,
+      "recommended": true
+    },
+    {
+      "id": "white_house",
+      "name": "白宫",
+      "nameEn": "The White House",
+      "country": "美国",
+      "city": "华盛顿哥伦比亚特区",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "continentId": "north_america",
+      "eraId": "early_modern",
+      "yearText": "1792–1800 年",
+      "architectIds": [
+        "james_hoban"
+      ],
+      "styleIds": [
+        "neoclassical"
+      ],
+      "summary": "美国总统官邸与办公地，新古典主义白色砂岩立面自 1800 年起见证美国政治。",
+      "coverFrom": "#8A8A80",
+      "coverTo": "#EEEEE6",
+      "popularity": 84,
+      "recommended": true
+    },
+    {
+      "id": "golden_gate_bridge",
+      "name": "金门大桥",
+      "nameEn": "Golden Gate Bridge",
+      "country": "美国",
+      "city": "旧金山",
+      "lat": 37.8199,
+      "lng": -122.4783,
+      "continentId": "north_america",
+      "eraId": "modern",
+      "yearText": "1933–1937 年",
+      "architectIds": [
+        "joseph_strauss"
+      ],
+      "styleIds": [
+        "modern_engineering",
+        "art_deco"
+      ],
+      "summary": "跨越金门海峡的悬索桥，「国际橘」配色与 1280 米主跨曾是工程史上的奇迹。",
+      "coverFrom": "#8A3A2A",
+      "coverTo": "#E89A6A",
+      "popularity": 89,
+      "recommended": true
+    },
+    {
+      "id": "machu_picchu",
+      "name": "马丘比丘",
+      "nameEn": "Machu Picchu",
+      "country": "秘鲁",
+      "city": "库斯科",
+      "lat": -13.1631,
+      "lng": -72.545,
+      "continentId": "south_america",
+      "eraId": "medieval",
+      "yearText": "约 1450 年",
+      "architectIds": [],
+      "styleIds": [
+        "inca"
+      ],
+      "summary": "海拔 2430 米云雾中的印加山城，不用灰浆的巨石砌筑历经数百年地震而不倒。",
+      "coverFrom": "#3E6A4A",
+      "coverTo": "#A8CFA0",
+      "popularity": 92,
+      "recommended": true
+    },
+    {
+      "id": "cristo_redentor",
+      "name": "基督救世主雕像",
+      "nameEn": "Christ the Redeemer",
+      "country": "巴西",
+      "city": "里约热内卢",
+      "lat": -22.9519,
+      "lng": -43.2105,
+      "continentId": "south_america",
+      "eraId": "modern",
+      "yearText": "1922–1931 年",
+      "architectIds": [
+        "heitor_costa"
+      ],
+      "styleIds": [
+        "art_deco"
+      ],
+      "summary": "科尔科瓦多山顶 30 米高的张开双臂的基督像，是里约与巴西的象征。",
+      "coverFrom": "#3E7A6A",
+      "coverTo": "#B0E0D0",
+      "popularity": 87,
+      "recommended": true
+    },
+    {
+      "id": "sydney_opera",
+      "name": "悉尼歌剧院",
+      "nameEn": "Sydney Opera House",
+      "country": "澳大利亚",
+      "city": "悉尼",
+      "lat": -33.8568,
+      "lng": 151.2153,
+      "continentId": "oceania",
+      "eraId": "contemporary",
+      "yearText": "1959–1973 年",
+      "architectIds": [
+        "jorn_utzon"
+      ],
+      "styleIds": [
+        "expressionism"
+      ],
+      "summary": "贝壳状薄壳屋顶覆盖的表演艺术中心，从设计竞赛到建成耗时十四年、超支十余倍。",
+      "coverFrom": "#2F6A8A",
+      "coverTo": "#A8D8E8",
+      "popularity": 93,
+      "recommended": true
+    },
+    {
+      "id": "burj_khalifa",
+      "name": "哈利法塔",
+      "nameEn": "Burj Khalifa",
+      "country": "阿联酋",
+      "city": "迪拜",
+      "lat": 25.1972,
+      "lng": 55.2744,
+      "continentId": "asia",
+      "eraId": "contemporary",
+      "yearText": "2004–2010 年",
+      "architectIds": [
+        "adrian_smith"
+      ],
+      "styleIds": [
+        "high_tech",
+        "modernism"
+      ],
+      "summary": "828 米的全球第一高楼，以「扶壁核心筒」体系抵御沙漠强风。",
+      "coverFrom": "#3A5A8A",
+      "coverTo": "#A8C8E8",
+      "popularity": 90,
+      "recommended": true
+    },
+    {
+      "id": "petronas_towers",
+      "name": "吉隆坡双子塔",
+      "nameEn": "Petronas Twin Towers",
+      "country": "马来西亚",
+      "city": "吉隆坡",
+      "lat": 3.1578,
+      "lng": 101.7117,
+      "continentId": "asia",
+      "eraId": "contemporary",
+      "yearText": "1993–1998 年",
+      "architectIds": [
+        "cesar_pelli"
+      ],
+      "styleIds": [
+        "modern_skyscraper",
+        "islamic"
+      ],
+      "summary": "452 米的双塔曾是世界最高建筑，空中连桥与伊斯兰几何母题让它极具辨识度。",
+      "coverFrom": "#4A6A8A",
+      "coverTo": "#B0D0E8",
+      "popularity": 88,
+      "recommended": true
+    },
+    {
+      "id": "potala_palace",
+      "name": "布达拉宫",
+      "nameEn": "Potala Palace",
+      "country": "中国",
+      "city": "拉萨",
+      "lat": 29.6578,
+      "lng": 91.1174,
+      "continentId": "asia",
+      "eraId": "early_modern",
+      "yearText": "公元 7 世纪始建，1645–1694 年重建",
+      "architectIds": [],
+      "styleIds": [
+        "tibetan"
+      ],
+      "summary": "红山之上的藏式宫堡建筑群，白宫与红宫层层叠起，是雪域高原的精神与权力中心。",
+      "coverFrom": "#8A3A2A",
+      "coverTo": "#E0A878",
+      "popularity": 92,
+      "recommended": true
+    },
+    {
+      "id": "forbidden_city",
+      "name": "北京故宫",
+      "nameEn": "The Forbidden City",
+      "country": "中国",
+      "city": "北京",
+      "lat": 39.9163,
+      "lng": 116.3972,
+      "continentId": "asia",
+      "eraId": "early_modern",
+      "yearText": "1406–1420 年",
+      "architectIds": [
+        "kuai_xiang"
+      ],
+      "styleIds": [
+        "chinese_palace"
+      ],
+      "summary": "明清两代皇宫，世界上现存规模最大、保存最完整的木结构宫殿建筑群。",
+      "coverFrom": "#8A2A2A",
+      "coverTo": "#E0A050",
+      "popularity": 98,
+      "recommended": true
+    },
+    {
+      "id": "kiyomizu_dera",
+      "name": "清水寺",
+      "nameEn": "Kiyomizu-dera",
+      "country": "日本",
+      "city": "京都",
+      "lat": 34.9949,
+      "lng": 135.785,
+      "continentId": "asia",
+      "eraId": "early_modern",
+      "yearText": "公元 778 年创建，1633 年重建正殿",
+      "architectIds": [],
+      "styleIds": [
+        "japanese_traditional"
+      ],
+      "summary": "悬于音羽山崖壁的「清水舞台」，不用一根钉子，由 139 根巨柱支撑悬空而出。",
+      "coverFrom": "#8A4A3A",
+      "coverTo": "#E0B090",
+      "popularity": 87,
+      "recommended": true
+    },
+    {
+      "id": "himeji_castle",
+      "name": "姬路城",
+      "nameEn": "Himeji Castle",
+      "country": "日本",
+      "city": "姬路",
+      "lat": 34.8394,
+      "lng": 134.6939,
+      "continentId": "asia",
+      "eraId": "early_modern",
+      "yearText": "1609 年建成现存天守",
+      "architectIds": [],
+      "styleIds": [
+        "japanese_traditional"
+      ],
+      "summary": "白漆灰泥外墙的「白鹭城」，日本现存最完整、规模最大的战国城堡。",
+      "coverFrom": "#7A8A9A",
+      "coverTo": "#EDF2F6",
+      "popularity": 86,
+      "recommended": true
+    },
+    {
+      "id": "fallingwater",
+      "name": "流水别墅",
+      "nameEn": "Fallingwater",
+      "country": "美国",
+      "city": "宾夕法尼亚州",
+      "lat": 39.9062,
+      "lng": -79.4681,
+      "continentId": "north_america",
+      "eraId": "modern",
+      "yearText": "1935–1937 年",
+      "architectIds": [
+        "frank_wright"
+      ],
+      "styleIds": [
+        "organic",
+        "modernism"
+      ],
+      "summary": "赖特建在瀑布之上的周末别墅，用悬挑混凝土平台把建筑与溪流山林融为一体。",
+      "coverFrom": "#4A6A4A",
+      "coverTo": "#A8C8A0",
+      "popularity": 85,
+      "recommended": true
+    }
+  ]
+}
